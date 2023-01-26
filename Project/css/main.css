@@ -1,5 +1,6 @@
-.contener {
+.contener .intro  {
   text-align: center;
+  background-color: white;
 }
 
 
@@ -16,5 +17,21 @@
 }
 .text-center{
   background-color: black;
+}
+.intro .btn {
+  background-color: #1ac139;
+  border-color: #1ac139;
+  padding: 8px 36px;
+  border-radius: 30px;
+  font-size: 14px;
+  color: #fff;
+  text-transform: uppercase;
+}
+.title {
+  margin-bottom: 0.5rem;
+  font-family: inherit;
+  font-weight: 500;
+  line-height: 1.2;
+  color: inherit;
 }
   
